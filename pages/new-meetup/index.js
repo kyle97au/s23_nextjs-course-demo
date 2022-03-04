@@ -27,7 +27,7 @@ function NewMeetupPage() {
 		</>
 	);
 
-	// function addMeetupHandler --> eventually execute in onAddMeetup in <NewMeetupForm />
+	// function addMeetupHandler --> eventually execute in onAddMeetup in <NewMeetupForm /> hahaha
 }
 
 export default NewMeetupPage;
